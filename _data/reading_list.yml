@@ -46,3 +46,295 @@
     March 2001.
   date: 20010300
   tags: [ testing ]
+  summary: >
+    This paper addresses the issue of how to approach the teaching of software testing. This paper presents a software testing 
+    framework identifying five essential principles that motivate the types of testing experiences a student should gain from the curriculum. 
+    The framework is illustrated using a simple test problem.
+ 
+- <citation: >
+    J. Aronson, C. B. Fried, and C. Good. [Reducing the
+    effects of stereotype threat on african american college
+    students by shaping theories of intelligenceJ
+    (https://www.sciencedirect.com/science/article/pii/S002210310191491X).
+    In _Experimental Social Psychology_, pages 113–125, 2002.
+  date: 200203
+  tags: [ psychology ]
+  summary: >
+    An experiment was performed to test a method of helping  students resist these responses to stereotype threat. Specifically, students in the experimental condition of the experiment 
+    were encouraged to see intelligence—the object of the stereotype—as a malleable rather than fixed capacity. 
+    This mind-set was predicted to make students' performances less vulnerable to stereotype threat and help them maintain their psychological
+    engagement with academics, both of which could help boost their college grades. Results were consistent with predictions. 
+    The African American students (and, to some degree, the White students) encouraged to view intelligence as malleable reported 
+    greater enjoyment of the academic process, greater academic engagement, and obtained higher grade point averages than their counterparts 
+    in two control groups.
+
+- <citation: >
+    L. S. Blackwell, K. H. Trzesniewski, and C. S. Dweck.
+    [Implicit theories of intelligence predict achievement
+    across an adolescent transition: A longitudinal study
+    and an intervention](https://www.ncbi.nlm.nih.gov/pubmed/17328703). In _Child Development_, 78(1):246–263, 2007.
+  date: 200701
+  tags: [ psychology ] 
+  summary: >
+    Two studies explored the role of implicit theories of intelligence in adolescents' mathematics achievement. 
+    In Study 1 with 373 7th graders, the belief that intelligence is malleable (incremental theory) predicted 
+    an upward trajectory in grades over the two years of junior high school, while a belief that intelligence 
+    is fixed (entity theory) predicted a flat trajectory. A mediational model including learning goals, positive beliefs about effort, 
+    and causal attributions and strategies was tested. In Study 2, an intervention teaching an incremental theory to 7th graders (N=48) 
+    promoted positive change in classroom motivation, compared with a control group (N=43). Simultaneously, 
+    students in the control group displayed a continuing downward trajectory in grades, 
+    while this decline was reversed for students in the experimental group.
+
+- <citation: >
+    E. L. Deci, R. Koestner, and R. M. Ryan. [A meta-analytic review 
+    of experiments examining the effects of extrinsic rewards on intrinsic motivation]
+    (https://www.ncbi.nlm.nih.gov/pubmed/10589297 ). In _Psychological Bull._, 125(6): 627, 1999.
+  date: 199911
+  tags: [ psychology ]
+  summary: >
+    A meta-analysis of 128 studies examined the effects of extrinsic rewards on intrinsic motivation. 
+    The analysis found tangible rewards tended to be more detrimental for children than college students, 
+    and verbal rewards tended to be less enhancing for children than college students. 
+    The authors review 4 previous meta-analyses of this literature and detail how this study's methods, 
+    analyses, and results differed from the previous ones.
+
+- <citation: >
+    C. S. Dweck and E. L. Leggett. A social-cognitive approach to motivation and personality. In _Psychological
+    Review_, pages 256–273, 1988.
+  date: 1988
+  tags: [ psychology ]
+  summary: >
+    This paper presents a research-based model that accounts for patterns of adaptive and maladaptive behavior: the mastery-oriented 
+    and the helpless patterns, in terms of underlying psychological processes. The model specifies how individuals' implicit theories orient 
+    them toward particular goals and how these goals set up the different patterns. 
+
+- <citation: >
+    A. E. Flanigan, M. S. Peteranetz, D. F. Shell, and L.-K. Soh. [Exploring changes in computer science
+    students’ implicit theories of intelligence across the semester](https://dl.acm.org/citation.cfm?id=2787722).
+    In _Proc. 11th Ann. Int’l Conf. Int’l Comput. Educ. Research_, pages 161–168, New York, NY, USA, 2015. ACM.
+  date: 20150809
+  tags: [ psychology ]
+  summary: >
+    Our study was based on exploring CS1 students' implicit theories of intelligence. Referencing Dweck and Leggett's  framework 
+    for implicit theories of intelligence, we investigated (1) how students' implicit theories changed over the course of a semester, 
+    (2) how these changes differed as a function of course enrollment and students' self-regulation profiles, 
+    and (3) whether or not implicit theories predicted standardized course grades and performance on a computational thinking knowledge test. 
+
+- <citation: >
+    H. Grant and C. S. Dweck. Clarifying achievement goals and their impact. In _J. Personality & Social Psychology_,
+    pages 541–553, 2003.
+  date: 2003
+  tags: [ psychology ]
+  summary: >
+    The  study  of  achievement  goals  has  illuminated  basic  motivational  processes,  though  controversy
+    surrounds  their  nature  and  impact.  In  5  studies,  including  a  longitudinal  study  in  a  difficult  premed
+    course, the authors show that the impact of learning and performance goals depends on how they are operationalized. Active
+    learning goals predicted active coping, sustained motivation, and higher achievement in the face of challenge. Among performance goals,
+    ability-linked goals predicted withdrawal and poorer performance in the face of challenge (but provided a “boost” to performance 
+    when students met with success); normative goals did not predict decrements in motivation or performance; and
+    outcome goals (wanting a good grade) were in fact equally related to learning goals and ability goals. Ways in
+    which the findings address discrepancies in the literature are discussed.
+- <citation: >
+    P. Ihantola, T. Ahoniemi, V. Karavirta, and O. Sepp ̈ala. Review of recent systems for automatic
+    assessment of programming assignments. In _Proc. 10th Koli Calling Int’l Conf. Comput. Educ. Research_,
+    pages 86–93, New York, NY, USA, 2010. ACM.
+  date: 2010
+  tags: [ automatic assessment ]
+    This paper presents a systematic literature review of the recent (2006--2010) development of automatic assessment tools 
+    for programming exercises. We discuss the major features that the tools support and the different approaches they are 
+    using both from the pedagogical and the technical point of view.
+
+- <citation: >
+    C. Lewis. [Attitudes and beliefs about computer science among students and faculty]
+    (https://dl.acm.org/citation.cfm?id=1272880). In _SIGCSE Bull._, 39(2):37–41, June 2007.
+  date: 200706
+  tags: [ sigcse ]
+  summary: >
+    This study reports the attitudes of undergraduate computer science students early and late in the curriculum, 
+    and compares them with the beliefs and attitudes of faculty in the same department. 
+
+- <citation: >
+    C. M. Lewis, K. Yasuhara, and R. E. Anderson. [Deciding to major in computer science: A grounded
+    theory of students’ self-assessment of ability](https://dl.acm.org/citation.cfm?id=2016911). 
+    In _Proc. 7th Int’l Workshop on Comput. Educ. Research_, ICER’11, pages 3–10, New York, NY, USA, 2011. ACM.
+  date: 2011
+  tags: [ ICER ]
+  summary: >
+    This paper presents a model of five factors that influence student decisions to major in CS and elaborates 
+    on our grounded theory analysis of one of these factors: how students assess their CS-related ability. 
+    
+- <citation: >
+    L. Murphy and L. Thomas. [Dangers of a fixed mindset: Implications of self-theories research for
+    computer science education](https://dl.acm.org/citation.cfm?id=1384344).
+    In _Proc. 13th Ann. Conf. Innovation and Tech. in Comput. Sci. Educ._, pages
+    271–275, New York, NY, USA, 2008. ACM.
+  date: 20080630
+  tags: [ growth mindset ]
+  summary: >
+    This paper introduces self-theories research, and relates this research to several issues in CS Education. 
+    They then make suggestions for how CS educators can consider self-theories in their teaching and research.    
+
+- <citation: >
+    E. O’Rourke, Y. Chen, K. Haimovitz, C. S. Dweck, and Z. Popovi ́c. Demographic differences in a growth
+    mindset incentive structure for educational games. In _Proc. Second (2015) ACM Conf. Learning @ Scale_,
+    pages 331–334, New York, NY, USA, 2015. ACM.
+  date: [ growth mindset ]
+  tags: [growth mindset ]
+  summary: >
+    This paper  expand on their previous research that introduced a new "brain points" incentive structure designed 
+    to promote the growth mindset, or the belief that intelligence is malleable. They replicate our original findings, 
+    showing that brain points increase student persistence and use of strategy. They also explore how brain points impact students 
+    from different demographic groups. We find that brain points are less engaging for low-income students, and discuss 
+    methods of improving our design in the future.
+- <citation: >
+    E. O’Rourke, K. Haimovitz, C. Ballweber, C. Dweck, and Z. Popovi ́c. [Brain points: A growth mindset
+    incentive structure boosts persistence in an educational game](https://dl.acm.org/citation.cfm?id=2557157).
+    In _Proc. 32nd Ann. ACM Conf. Human Factors in Comput. Sys._, pages 3339–3348, New York, NY, USA, 2014. ACM.
+  date: 20140426
+  tags: [ growth mindset ]
+  summary: >
+    They argue that educational games can be improved by fundamentally changing their incentive structures to promote the growth mindset, 
+    or the belief that intelligence is malleable. We present "brain points," a system that encourages the development of growth mindset 
+    behaviors by directly incentivizing effort, use of strategy, and incremental progress. Through a study of 15,000 children, 
+    they show that the "brain points" system encourages more low-performing students to persist in the educational game Refraction 
+    when compared to a control, and increases overall time played, strategy use, and perseverance after challenge. 
+    They believe that this growth mindset incentive structure has great potential in many educational environments.
+- <citation: >
+    B. Simon, B. Hanks, L. Murphy, S. Fitzgerald, R. McCauley, L. Thomas, and C. Zander. [Saying isn’t
+    necessarily believing: Influencing self-theories in computing]
+    (https://dl.acm.org/citation.cfm?id=1404537). In _Proc. Fourth Int’l Workshop on
+    Comput. Educ. Research ICER'08_, pages 173–184, New York, NY, USA, 2008. ACM.
+   date: 20080906
+  tags: [ growth mindset ]
+  summary: >
+    In this study they attempted a "saying is believing" intervention to encourage CS1 students to adopt a growth mindset both in general 
+    and towards programming. Despite notable success of this type of intervention in a non-CS context, 
+    Their results offered few statistically significant differences both from pre-survey to post-survey and between control and intervention 
+    groups. Further, the statistically significant results we did find differed in direction between institutions 
+    (some students exhibited more growth response, others less). We analyzed further evidence to explore possible confounding issues 
+    including whether our intervention even registered with students and how students interpreted the questions which they used to assess 
+    their self-theories.
+
+- <citation: >
+    R. McCartney, J. Boustedt, A. Eckerdal, K. Sanders, and C. Zander, [Folk pedagogy and the geek gene:
+    Geekiness quotient](http://doi.acm.org/10.1145/3017680.3017746). 
+    in _Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education_, SIGCSE ’17., 
+    New York, NY, USA: ACM, 2017, pp. 405–410.
+  date: 2017
+  tags: [ growth mindset, SIGCSE ]
+  summary: >
+    They suggest an term, the "geekiness quotient (GQ)". The GQ, grounded in Gardner's work on multiple intelligences, 
+    is a hypothetical measure of the student's current CS ability. The GQ supports a moderate view of the geek gene: 
+    that students arrive in our classrooms with a range of CS abilities, whether acquired through background or innate talent, 
+    and can improve their abilities through effort.
+
+- <citation: >
+    C. Lewis. [Attitudes and beliefs about computer science among students and faculty](http://doi.acm.org/10.1145/1272848.1272880).
+    In _SIGCSE Bull._, vol. 39, no. 2, pp. 37–41, Jun. 2007.
+  date: 2007
+  tags: [ growth mindset, SIGCSE ]
+  summary: >
+    This study reports the attitudes of undergraduate computer science students early and late in the curriculum, and compares them 
+    with the beliefs and attitudes of faculty in the same department. The results show where students think what faculty would like 
+    them to think, where they do not, and whether there is evidence that senior students agree more or less with faculty than do students 
+    in introductory courses. The results can guide curricular improvements.
+- <citation: >
+    J. Cameron and W. D. Pierce. [Reinforcement, reward, and intrinsic motivation: A meta-analysis](http://www.jstor.org/stable/1170677). In _Review of
+    Educational Research_, vol. 64, no. 3, pp. 363–423, 1994. 
+  date: 1994
+  tags: [ reward, education ]
+  summary: >
+    This article reviews research on the effects of reinforcement/reward on intrinsic motivation. The main meta-analysis included 
+    96 experimental studies that used between-groups designs to compare rewarded subjects to nonrewarded controls on four measures 
+    of intrinsic motivation. Results indicate that, overall, reward does not decrease intrinsic motivation. 
+
+- <citation: >
+    E. L. Deci, R. Koestner, and R. M. Ryan. [A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation]
+    (https://psycnet.apa.org/fulltext/1999-01567-001.html). In _Psychological Bulletin_, vol. 125, no. 6, pp. 627 – 668, 1999.
+  date: 1999
+  tags: [reward, psychology ]
+  summary: >
+    A meta-analysis of 128 studies examined the effects of extrinsic rewards on intrinsic motivation. 
+  
+- <citation: >
+    E. L. Deci and R. M. Ryan. [Extrinsic rewards and intrinsic motivation in education: Reconsidered once again]
+    (https://journals.sagepub.com/doi/abs/10.3102/00346543071001001). In _Review of Educational Research_, vol. 1, pp. 1–27, 2001.
+  date: 2001
+  tags: [ psychology, education ]
+  summary: >
+    This article briefly reviews the results of the more recent meta-analysis of extrinsic rewards on intrinsic motivation, 
+    which showed that tangible rewards do indeed have a substantial undermining effect. The meta-analysis provided strong support 
+    for cognitive evaluation theory (Deci & Ryan, 1980), which Cameron and Pierce had advocated abandoning. 
+    The results are briefly discussed in terms of their relevance for educational practice.
+
+- <citation: >
+    H. Wang and C.-T. Sun. [Game reward systems: Gaming experiences and social meanings]
+    (http://www.digra.org/dl/db/11310.20247.pdf). In _Proceedings of DiGRA 2011 Conference: Think Design Play_, 2011.
+  date: 2011
+  tags: [reward, games ]
+  summary: >
+    The authors give an overview of how various video game reward systems provide positive experiences to players, 
+    and propose classifications for rewards and reward characteristics for further analysis. 
+
+- <citation: >
+    Hao Cen, Kenneth Koedinger, and Brian Junker. Learning Factors Analysis - A General Method for Cognitive Model Evaluation and Improvement,
+    In _Intelligent Tutoring Systems_, ITS 2006, pages 164-175, Springer Berlin Heidelberg, Berlin, Heidelberg, 2006.
+  date: 2006
+  tags: [ learning curves ]
+  summary: >
+    They propose a semi-automated method for improving a cognitive model called Learning Factors Analysis that
+    combines a statistical model, human expertise and a combinatorial search. We use this method to evaluate an
+    existing cognitive model and to generate and evaluate alternative models. We present improved cognitive models and make
+    suggestions for improving the intelligent tutor based on those models.
+
+- <citation: >
+    Albert T Corbett and John R Anderson, [Knowledge tracing: Modeling the acquisition of procedural knowledge]
+    (https://link.springer.com/content/pdf/10.1007%2FBF01099821.pdf). In _User modeling and useradapted interaction_,  4(4):253-278, 1994.
+  date: 1994
+  tags: [ modeling ]
+  summary: >
+   T his paper describes an effort to model students' changing knowledge state during skill
+   acquisition. Students in this research are learning to write short programs with the ACT Programming Tutor (APT). 
+  
+
+- <citation: >
+    April Galyardt and Пуа Goldin. Move your lamp post: Recent data reflects learner knowledge better than older data. 
+    In _JEDM-Joumal of Educational Data Mining_, 7(2):83-108, 2015.
+  date: 2015
+  tags: [ modeling ]
+  summary: >
+    They We investigate several representations of recency, such as the count of prior practice in the AFM model, 
+    and the proportion of recent successes with exponential and box kernels. 
+- <citation: >
+    Dya M Goldin and April Galyardt. Convergent validity of a student model: Recent-performance factors analysis. In _EDM_, pages 548-551, 2015.
+  date: 2015
+  tags: [ modeling ]
+  summary: >
+    They validate the Recent-Performance Factors Analysis model of student performance by checking its sensitivity to the skill decomposition.
+    They use a dataset from a tutoring system where the skill model has been improved by the Learning Factors Analysis algorithm for 
+    skill model refinement and by expert validation. 
+
+- <citation: >
+    Philip I. Pavlik, Hao Cen, and Kenneth R. Koedinger. [Performance factors analysis -a new alternative to knowledge tracing]
+    (https://eric.ed.gov/?id=ED506305). In _Proceedings of the 2009 Conference on Artificial Intelligence in Education: Building Learning Systems That Care: 
+    From Knowledge Representation to Affective Modeling_, pages 531-538, Amsterdam, The Netherlands, The Netherlands, 2009. IOS Press.
+  date: 2009
+  tags: [ modeling ]
+  summary: >
+    This paper describes their work to modify an existing data mining model so that it can also be used to select practice adaptively. 
+    They compare this new adaptive data mining model (PFA, Performance Factors Analysis) with two versions of LFA and 
+    then compare PFA with standard KT. (Contains 3 tables and 1 footnote.)
+   
+- <citation: >
+    Kelly Rivers, Erik Harpstead, and Ken Koedinger. Learning curve analysis for programming: Which concepts do students struggle with?.
+    In _Proceedings of the 2016 ACM Conference on International Computing Education Research_, ICER '16, pages 143-151, New York, NY, USA, 2016. ACM.
+  date: 2016
+  tags: [ learning curve analysis ]
+  summary: >
+    They investigate programming data  by  using  learning  curve  analysis  to  determine  which 
+    programming  elements  students  struggle  with  the  most  when 
+    learning  in  Python. Their  analysis  extends  the  traditional  use  of 
+    learning curve analysis to include less structured data, and also 
+    reveals  new  possibilities  for when  to  teach  students  new 
+    programming concepts. 
+  

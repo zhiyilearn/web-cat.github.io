@@ -1557,3 +1557,180 @@
     programming concepts.
   tags: [peer review, CS2, cs education, design, human factors, object-oriented, code review, SIGCSE]
 
+- type: inproceedings
+  id: kolicalling2016
+  date: 20161127
+  title: 'Towards Progress Indicators for Measuring Student Programming Effort During Solution Development'
+  citation: >
+    Stephen Edwards, Zhiyi Li. Towards progress indicators for measuring student programming effort during solution development. 
+    In <i>Proceedings of the 16th Koli Calling International Conference on Computing Education Research</i>,
+    ACM, New York, NY, Nov 27th 2016, pp. 31-40.
+  abstract: >
+    When learning to program, assignment feedback can easily
+    reinforce a fixed mindset--where one believes intelligence
+    is a fixed ability you either have or you don't. However,
+    this can have negative consequences for learning.  The alternative 
+    is a growth mindset, where one believes intelligence
+    is malleable and can be improved through practice, effort,
+    and hard work. We develop a set of fifteen progress indicators 
+    that can be used to assess student programming effort independently
+    of the correctness of their code. The goal is to provide the 
+    measurement support needed for innovative  feedback that  
+    gives a more welcoming experience for students, 
+    recognizing the e ort they put in and the accomplishments 
+    they make as they work on solutions, rather than simply looking at 
+    whether code "works". Our set of progress indicators  includes
+    seven associated with writing solution code for a problem that 
+    are suitable for use on all programming  assignments,  
+    and eight associated with self-checking programs using software tests, 
+    which are appropriate for assignments where students are required to 
+    test their own work. In this initial work, we applied these indicators 
+    to a collection of programming assignments from 257 students to
+    determine the suitability of the measures and validate their
+    results. The resulting set of progress indicators is the first
+    step toward developing feedback strategies that recognize
+    and reward effort and hard work, with the goal of fostering
+    the development of a growth mindset among students.
+  tags: [growth mindset, fixed mindset, metrics, indicators, progress, effort, persistence; feedback, automated grading, Koli Calling]
+ 
+- type: inproceedings
+  id: asee2019
+  date: 20190616
+  title: 'Designing Boosters and Recognition to Promote a Growth Mindset in Programming Activities'
+  citation: >
+    Stephen H. Edwards, Zhiyi Li. Designing Boosters and Recognition to Promote a Growth Mindset in Programming Activities. 
+    In <i>Proceedings of the 2019 American Society for Engineering Education Annual Conference
+    and Exposition</i>, ASEE, 2019.
+  abstract: >
+    When one first learns to program, feedback on early assignments can easily induce a fixed
+    mindset—where one believes programming is a fixed ability you either have or you don’t.
+    However, possessing a fixed mindset perspective has negative consequences for learning. The
+    alternative is to foster a growth mindset, where one believes ability can be improved through
+    practice, effort, and hard work. However, automated grading tools used on programming
+    assignments currently focus on objectively assessing functional correctness and other
+    performance-oriented features of students’ programs. Unfortunately this encourages students to
+    adopt performance-oriented goals, which are characteristic of a fixed mindset. By building on
+    existing measures of “productive effort”, we design a new kind of feedback approach that focuses
+    on recognizing, encouraging, and rewarding diligence and productive actions based on those
+    indicators. The goal is to add such elements to existing feedback in an emotionally supportive
+    way that recognizes the efforts of a student expending and valuing these practices. We discuss the
+    techniques borrowed from video game psychology to promote intrinsic motivation, including a
+    focus on non-points-based “perks” instead of score bonuses. We describe the use of variable-ratio
+    reinforcement, the design issues arising in developing the target reward schedule, the types of
+    perks used, and the results of a post hoc evaluation against prior student work data to show the
+    actual range of feedback and perks that would have been received by a typical class full of
+    students. The evaluation results validate the rational of the design principle of rewards and
+    comments, match our expectation. We will apply new feedback components rewards and
+    comments in CS1 classroom.
+  tags: [Rewards, incentives, motivation, intrinsic motivation, programming assignments, grading,
+    automated grading, feedback, ASEE]
+
+- type: inproceedings
+  id: fecs2018
+  date: 20190616
+  title: 'Applying Recent-Performance Factors Analysis to Explore Student Effort Invested in Programming Assignments'
+  citation: >
+    Zhiyi Li, Stephen H. Edwards. Applying Recent-Performance Factors Analysis to Explore Student Effort Invested 
+    in Programming Assignments. In <i>Proceedings of the International Conference on Frontiers in Education: 
+    Computer Science and Computer Engineering (FECS)</i>, Athens, 2018, pp. 3-10 
+  abstract: >
+    Automatic programming assessment systems are widely used. Feedback mechanisms in these systems are objective, 
+    performance-based, and may encourage a fixed mindset-encouraging the belief that programming ability is 
+    an innate trait, rather than a skill that can be improved. To address this, a group of progress indicators 
+    were developed to recognize the productive effort students invest in developing their work. 
+    This paper applies Recent-Performance Factors Analysis (R-PFA) to investigate student effort gains demonstrated 
+    by these indicators. The analysis was performed using historical data collected from a CS2 course. 
+    Among twelve indicators, learning curve analysis shows five indicators reflect improvements in student 
+    programming effort over time, while seven others do not show consistent gains, which may be due to lack of feedback 
+    given to students on those aspects of performance, or to intrinsic properties of those indicators.
+  tags: [Indicators, progress, student performance model, R-PFA, mindset, self-theory, FECS]
+
+- type: inproceedings
+  id: sigcse2018e
+  date: 20180221
+  title: 'Improve Feedback Mechanism in Programming Assessment Systems with Progress Indicators and Reward to Foster Students' Growth Mindset'
+  citation: >
+    Zhiyi Li. [Improve Feedback Mechanism in Programming Assessment Systems with Progress Indicators and Reward to Foster Students' Growth Mindset]
+    (https://dl.acm.org/citation.cfm?id=3162329). In <i> Proceedings of the 49th ACM Technical Symposium on Computer Science Education </i>, SIGCSE '18,  
+    Student Research Competition(SRC), Pages 276-276, Baltimore, Maryland, USA — February 21 - 24, 2018, ACM New York, NY, USA ©2018.
+  abstract: >
+    When students learn programming, the assignment feedback information from current automatic programming assessment systems, 
+    such as Web-CAT is often negative, objective, and unfriendly. These feedback information can easily frustrate students to lose interest 
+    in programming related activities. The negative feedback information can have possible serious consequences to students. We work to improve 
+    current feedback mechanism in mindset perspective: encourage students by positive feedback with a group of fifteen progress indicators and 
+    possible reward. The fifteen progress indicators were designed and implemented based on students' sequential programming submissions. 
+    These fifteen indicators include seven general purpose indicators about various aspects when students construct solutions for assignments; 
+    eight other software testing indicators concentrate on students' progress when students self-checking their code. We did statistical analysis 
+    for these fifteen indicators' suitability to a collection of programming assignments data set including 257 students. In order to validate 
+    fifteen progress indicators' effectiveness, we also apply a student performance model: Recent-Performance Finite Analysis model (R-PFA)
+    to the same programming assignment data set we used before. We calculate R-PFA model's prediction accuracy and apply learning curves analysis.
+    In learning curve analysis, eight software test indicators demonstrate students gradually learn positively when they work on their assignment submissions.
+    Based on progress indicators information, we plan to give students possible reward when they make progress. We will research on reward mechanism, 
+    reward format, and timing, etc. In this way, moves students to growth mindset - belief that hard work and practices can improve their skills and 
+    capabilities.
+  tags: [ Indicators, mindset, progress, SIGCSE ]
+
+- type: inproceedings
+  id: icer2012e
+  date: 20120909
+  title: 'Understanding and persuading adherence to test-driven development'
+  citation: >
+    K. Buffardi. [Understanding and persuading adherence
+    to test-driven development](https://dl.acm.org/citation.cfm?id=2361308).
+    In _Proc. 9th Ann. Int’l Conf. Int’l Comput. Educ. Research_, ICER ’12, page 155–156,
+    New York, NY, USA, 2012. ACM.
+  abstract: >
+    In computing education, students must learn techniques practiced in relevant professions. 
+    Test-Driven Development (TDD) is one such technique popular in the software industry. 
+    Preliminary reports suggest that TDD helps produce higher-quality code. However, 
+    motivating novice programmers to adopt TDD is also recognized as a distinct challenge. 
+    My studies and proposed work address this challenge with the following objectives: 
+    measuring adherence to TDD and its consequential outcomes; understanding students' reasons 
+    for non-adherence; and influencing students' attitudes and behavior via pedagogical interventions.
+  tags: [testing]
+
+- type: inproceedings
+  id: iticse14e
+  date: 20140621
+  title: 'Responses to adaptive feedback for software testing'
+  citation: >
+    K. Buffardi and S. H. Edwards. Responses to adaptive
+    feedback for software testing. In _Proc. 2014 Conf.
+    Innovation & Technology in Comput. Sci. Educ._, ITiCSE ’14,
+    page 165–170, New York, NY, USA, 2014. ACM.
+  abstract: >
+    As students learn to program they also learn basic software development methods and techniques, 
+    but educators do not often directly assess students' development processes or evaluate their adherence 
+    to specific techniques. However, automated grading systems provide opportunities to evaluate students' 
+    programming and provide feedback while the student is still in the process of developing. 
+    Consequently, automated adaptive feedback may help reinforce effective techniques and processes. 
+    This paper describes an adaptive feedback system that uses strategic reinforcement techniques to reward 
+    and encourage incremental software testing. By analyzing changes in students' code after they receive the system's reinforcement, 
+    we investigated students' responses to the presence and absence of rewards. We found that after receiving rewards, 
+    students respond with more test code in their subsequent submission.
+  tags: [ testing ]
+
+- type: inproceedings
+  id: iticse2015e
+  date: 2015
+  title: 'Educational data mining and learning analytics in programming: Literature review and case studies'
+  citation: >
+    Petri Ihantola, Arto Vihavainen, Alireza Ahadi, Matthew Butler, Jürgen Börstler, Stephen H Edwards, Essi Isohanni, Ari Korhonen, Andrew Pet$
+    Kelly Rivers, et al.
+    [Educational data mining and learning analytics in programming: Literature review and case studies](https://dl.acm.org/citation.cfm?id=2858798).
+    In _Proceedings of the 2015 ITiCSE on Working Group Reports_, pages 41-63. ACM, 2015.
+  abstract:>
+    Educational data mining and learning analytics promise better understanding of student behavior and knowledge, 
+    as well as new information on the tacit factors that contribute to student actions. 
+    This knowledge can be used to inform decisions related to course and tool design and pedagogy, 
+    and to further engage students and guide those at risk of failure. This working group report provides an overview of the body of knowledge 
+    regarding the use of educational data mining and learning analytics focused on the teaching and learning of programming. 
+    In a literature survey on mining students' programming processes for 2005-2015, we observe a significant increase in work related to the field. 
+    However, the majority of the studies focus on simplistic metric analysis and are conducted within a single institution and a single course. 
+    This indicates the existence of further avenues of research and a critical need for validation and replication to better understand 
+    the various contributing factors and the reasons why certain results occur. We introduce a novel taxonomy to analyse replicating studies
+    and discuss the importance of replicating and reproducing previous work. We describe what is the state of the art in collecting and sharing
+    programming data. To better understand the challenges involved in replicating or reproducing existing studies, we report our experiences from 
+    three case studies using programming data. Finally, we present a discussion of future directions for the education and research community.
+  tags: [ data mining, ITiCSE ]
+
